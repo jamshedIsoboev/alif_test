@@ -1,0 +1,6 @@
+c:\users\isoboev-j\documents\visual studio 2017\Projects\alif_test\alif_test\bin\Debug\alif_test.exe.config
+c:\users\isoboev-j\documents\visual studio 2017\Projects\alif_test\alif_test\bin\Debug\alif_test.exe
+c:\users\isoboev-j\documents\visual studio 2017\Projects\alif_test\alif_test\bin\Debug\alif_test.pdb
+c:\users\isoboev-j\documents\visual studio 2017\Projects\alif_test\alif_test\obj\Debug\alif_test.csprojResolveAssemblyReference.cache
+c:\users\isoboev-j\documents\visual studio 2017\Projects\alif_test\alif_test\obj\Debug\alif_test.exe
+c:\users\isoboev-j\documents\visual studio 2017\Projects\alif_test\alif_test\obj\Debug\alif_test.pdb
